@@ -1,0 +1,11 @@
+- 👋 Hi, I’m @FrancaJoao31
+- 👀 I’m interested in gaming, technology, history, politics, and certainly a good challenge.
+- 🌱 I’m currently learning Analysis and Systems Development after 7 years of experience in the commercial sector.
+- 💞️ I’m looking to collaborate on innovative solutions and business opportunities, leveraging my background and newfound programming skills.
+- 📫 How to reach me: Feel free to connect with me here on GitHub or through [LinkedIn]([https://www.linkedin.com/in/joao-franca/])!
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+- 👋 Olá, eu sou @FrancaJoao31
+- 👀 Tenho interesse em jogos, tecnologia, história, política e, sem dúvida, em desafios estimulantes.
+- 🌱 Atualmente estou aprendendo Análise e Desenvolvimento de Sistemas, após 7 anos de experiência no setor comercial.
+- 💞️ Estou em busca de colaborar em soluções inovadoras e oportunidades de negócios, aproveitando minha bagagem e as novas habilidades de programação que adquiri.
+- 📫 Como entrar em contato comigo: Fique à vontade para se conectar comigo aqui no GitHub ou por meio do [LinkedIn]([https://www.linkedin.com/in/joao-franca/])!
